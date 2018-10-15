@@ -12,6 +12,6 @@ Dependencies:
 
 How to use:
 
-pyhton gettxid.py <start block> <end block>
+pyhton gettxid.py 'start block' 'end block'
 
 Start without any parameters will display all tx-id from last block.
