@@ -6,7 +6,7 @@ Dependencies:
 
 1. [python-bitcoinrpc](https://github.com/jgarzik/python-bitcoinrpc)
 
-  pip install python-bitcoinrpc
+    pip install python-bitcoinrpc
 
 2. Installed and full synced [Bitcoin Core](https://bitcoin.org/en/wallets/desktop/linux/bitcoincore/) wallet
 
